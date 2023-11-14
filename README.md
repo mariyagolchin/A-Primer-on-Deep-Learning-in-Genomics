@@ -15,3 +15,6 @@ Nature Genetics volume 51, pages12–18 (2019)Cite this article
 # Abstract
 <br>
 Deep learning methods are a class of machine learning techniques capable of identifying highly complex patterns in large datasets. Here, we provide a perspective and primer on deep learning applications for genome analysis. We discuss successful applications in the fields of regulatory genomics, variant calling and pathogenicity scores. We include general guidance for how to effectively use deep learning methods as well as a practical guide to tools and resources. This primer is accompanied by an interactive online tutorial.
+
+# Reff:
+[abidlabs-Deep Learning Genomics Primer] (https://github.com/abidlabs/deep-learning-genomics-primer/tree/master0
