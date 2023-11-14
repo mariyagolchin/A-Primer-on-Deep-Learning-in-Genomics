@@ -2,9 +2,10 @@
 # A-Primer-on-Deep-Learning-in-Genomics
 
 
-This tutorial is a supplement to the manuscript, A Primer on Deep Learning in Genomics (Nature Genetics, 2018) by James Zou, Mikael Huss, Abubakar Abid, Pejman Mohammadi, Ali Torkamani & Amalio Telentil. Read the accompanying paper here.
+This tutorial is a supplement to the manuscript, <b> A Primer on Deep Learning in Genomics (Nature Genetics, 2018) by James Zou, Mikael Huss, Abubakar Abid, Pejman Mohammadi, Ali Torkamani & Amalio Telentil</b>.
+Read the accompanying paper here.
 <br>
-[Perspective](https://www.nature.com/articles/s41588-018-0295-5)
+[A Primer on Deep Learning in Genomics (Nature Genetics, 2018) ](https://www.nature.com/articles/s41588-018-0295-5)
 <br>
 Published: 26 November 2018
 A primer on deep learning in genomics
